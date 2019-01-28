@@ -1,7 +1,7 @@
 ## Introduction
 A series of JavaScript scripts to change the display for the webpage at http://disa.forkinthecode.com.
 ## About the JavaScript code
-In the [DISA webpage](http://disa.forkinthecode.com), a series of [JavaScript programs (click me to go to the code repository in github!)](https://github.com/paarulsukanya/disa) are used to render the webpage so that the data entries retrieved from database can be showed to users. So far, we are sure about the function of several scripts:
+In the [DISA webpage](http://disa.forkinthecode.com), a series of [JavaScript programs (click here to go to the code repository in github!)](https://github.com/paarulsukanya/disa) are used to render the webpage so that the data entries retrieved from database can be showed to users. So far, we are sure about the function of several scripts:
 
 1. person-edit.js is for editing(when you're about to create a new person) the form.
 2. disa-table.js is for showing the items in the table (basically, many rows of entries).
